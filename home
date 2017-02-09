@@ -1,0 +1,192 @@
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="generator" content="Zoho Sites 1.0, http://zoho.com/sites" /><title>Naira Help Solution - Home</title><meta name="keywords" content="" /><meta name="description" content="" /><meta property="og:title" content="Naira Help Solution - Home"/><meta property="og:url" content="http://nairahelpsolution.zohosites.com/" /><meta property="og:description" content="" /><link href="/theme/content_style.css" rel="stylesheet" type="text/css" /><link href="/theme/style.css" rel="stylesheet" type="text/css" /><link href="/theme/contentreset_style.css" type="text/css" rel="stylesheet" /> <link rel="stylesheet" href="//sites.zoho.com/webfonts?family=Droid Serif/Lato/Lato:700, 400/Lobster" type="text/css" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link rel="icon" href="/favicon.png" type="image/png" /><script>var ZS_ColumnFix=false;var responsiveTheme=false;var ZS_FormAppName="naira-help-solution-640234572"</script><!--[if gt IE 8]><script>ZS_ColumnFix=true</script><script src="/js/json2.js"></script><![endif]--><script src="/js/commonUtils.js"></script><script src="/js/bootstrap.js"></script><script src="/js/navigation.js"></script><script>var ZS_adjustHeight=false;var ZS_PublishMode = true; var ZS_MobileVer = false;</script></head><body>
+
+<div class="themeHeaderContainer">
+  <div class="themeWidth">
+    <div class="themeLogoContainer"> 
+      <div class="themeLogoArea floatLeft"><a href="/"><img  id="zpLogo" src="/files/.nhs%20logo-lw-scaled.jpg.png" width="77px" /></a></div>
+      
+      <div class="themeSearchAndSocialContainers"> 
+        
+        <div class="themeSocialiconContainer"> <a href="http://facebook.com" target="_blank" class="zs-socialicon-facebook"></a><a href="http://twitter.com" target="_blank" class="zs-socialicon-twitter"></a><a href="http://linkedin.com" target="_blank" class="zs-socialicon-linkedin"></a><a href="http://google.com" target="_blank" class="zs-socialicon-googleplus"></a><a href="http://pinterest.com" target="_blank" class="zs-socialicon-pinterest"></a> </div>
+         </div>
+      <div class="clearDiv"></div>
+    </div>
+    <div class="themeSitenameAndNavigationContainer clearDiv">
+      <div class="themeSitenameArea floatLeft"> <span class="themeSitename" id="zpSitename">Naira Help Solution</span></div>
+      <div class="themeNavigationArea floatRight"> 
+        <div id="navigation">
+<ul id="nav-top" data-navorientation=horizontal>
+
+        <li id="nav-li786918000000002005"  navsub="nav-ul786918000000016109"  class="selected"><a target="_self" href="/home.html"  ><span>Home</span><em></em></a></li>
+
+            <li   ><a target="_self" href="/contact.html"  ><span>How it works </span><em></em></a></li>
+
+            <li   ><a target="_self" href="/legality.html"  ><span>Legality </span><em></em></a></li>
+
+            <li   ><a target="_self" href="/privacy-policy.html"  ><span>Privacy Policy </span><em></em></a></li>
+
+            <li   ><a target="_self" href="/create-account.html"  ><span>Create Account </span><em></em></a></li>
+
+            <li   ><a target="_self" href="/sign-in.html"  ><span>Sign In</span><em></em></a></li>
+</ul>
+
+<div id="childPageParent" style="position:relative">
+    <div id="childPage">
+        <div id="nav-submenu-id786918000000016109" class="submenu" style="z-index: 201;left:-4000px;overflow:hidden;top:0px;">
+            <ul id="nav-ul786918000000016109" navparent="nav-li786918000000002005">
+
+                    
+                        <li   ><a target="_self" href="/blogs/"  ><span>nairahelpsolution.com</span><em></em></a></li>
+            </ul>
+        </div>
+        <iframe scrolling="no" frameborder="0" style=" position: absolute; z-index: 200;left:-4000px;top:0px;width:0px" id="nav-smframe-id786918000000016109" src="/html/blank"></iframe>
+    </div>
+</div>
+</div>
+         </div>
+    </div>
+    <div class="themeCaptionArea clearDiv"></div>
+  </div>
+</div>
+<div class="themeWidth">
+  <div class="themeContentContainer"> 
+    <div class="themeBannerArea"><div id="carouselImg" style="position: relative; width:960px;height:425px; overflow: hidden;z-index:0"><div id="frontCont" style="position: absolute; top: 0px; left: 0px; opacity: 1; z-index: 2;overflow:hidden;background:#fff;"><img id="curImg" style="position: absolute;" ></div><div id="backCont" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 1; height: 280px; width: 904px;overflow:hidden;background:transparent"><img id="hindImg"  style="position: absolute;" ></div></div><script type="text/javascript">var slideImages={"settings":{"delay":"3","repeat":"on","control":"on","type":"carousel","transition":{"type":"diffuse","transition":"diffuse"}},"slideCss":["position: absolute; height: auto; width: 960.333px; left: -0.166667px; top: -75.5px; opacity: 1;","position: absolute; height: auto; width: 960px; left: 0px; top: -125.5px; opacity: 1;","position: absolute; height: auto; width: 960.397px; left: -0.198454px; top: -147px; opacity: 1;","position: absolute; height: auto; width: 960.654px; left: -0.327044px; top: -29px; opacity: 1;","position: absolute; height: auto; width: 991px; left: -15px; top: 0px; opacity: 1;","null","null","position: absolute; height: auto; width: 960px; left: 0px; top: -18px; opacity: 1;"],"slideBg":["null","null","null","null","null","null","null","null"],"slideURL":[{"overlay":[],"dimension":{"width":"960","height":"425"},"url":"/slide/site/cashhelp.jpg"},{"dimension":{"width":"960","height":"425"},"url":"/slide/site/ipad.png"},{"dimension":{"width":"960","height":"425"},"url":"/slide/site/nhs1.jpg"},{"dimension":{"width":"960","height":"425"},"url":"/slide/site/nhs7.jpg"},{"overlay":[],"dimension":{"width":"960","height":"425"},"url":"/slide/site/nhs9.jpg"},{"url":"/slide/site/atm2.jpg"},{"url":"/slide/site/atm4.jpg"},{"overlay":[],"dimension":{"width":"960","height":"425"},"url":"/slide/site/b1%20(1).jpg"}]}</script></div>
+    <div class="themeBannerShadow"></div>
+    
+    
+    
+    <div class="themeContentArea floatLeft" style="width:100%">    <div id="page-container" class="zpcontent-wrapper">
+
+            <div id="elm_yFvei3AuQWyMu1lxnqrlxg" class="zpelement-wrapper zpcol-layout">
+            <div class="zpcolumns">
+                    <div class="zpflLeft zpcolumn" style="width:50%">
+                    <div id="pos_ulz799A6Q8uEl3DO9Ude7A" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
+
+            <div id="elm_tciMSn3MSMyzxZ0oSq-5LA" class="zpelement-wrapper zpcol-layout">
+            <div class="zpcolumns">
+                    <div class="zpflLeft zpcolumn" style="width:50%">
+                    <div id="pos_ALY0QdrgSPaKfuZDi3EpVg" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
+
+            <div id="elm_WkMmUyE1TD6ZmqTZNIKgVA" class="zpelement-wrapper text">
+                    <div><p><span></span></p><h4 style="font-size: 18.0px;font-weight: 500;margin-bottom: 20.0px;"></h4><span><h4 dir="ltr" style="margin-bottom: 31.0pt;"><span style="font-size: 18.0px;">Access to helper community</span></h4><span style="font-size: 16.0px;font-weight: 700;">We give you a technical basic program, which helps millions of participants worldwide to find those who NEED help, and those who are ready to PROVIDE help for FREE</span></span><p style="font-size: 16.0px;"></p><p></p></div>
+            </div>
+                    </div></div> 
+                    <div class="zpflLeft zpcolumn" style="width:50%">
+                    <div id="pos_Fq5AiTwARtKEaxJdjFH3yQ" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
+
+            <div id="elm_N0A4M5FFRHqPfATI_jf5hA" class="zpelement-wrapper text">
+                    <div><p><span></span></p><h4 style="font-size: 18.0px;font-weight: 500;margin-bottom: 20.0px;"></h4><span><h4 dir="ltr" style="margin-bottom: 31.0pt;"><span style="font-size: 18.0px;">no lenders and no debtors</span></h4><p dir="ltr" style="margin-bottom: 16.0pt;"><span style="font-size: 16.0px;font-weight: 700;">There are no lenders and no debtors. Everything is very simple: one participant asks for help - another one helps.</span></p></span><p style="font-size: 16.0px;"></p><p></p></div>
+            </div>
+                    </div></div> 
+            </div></div>
+                    </div></div> 
+                    <div class="zpflLeft zpcolumn" style="width:50%">
+                    <div id="pos_r-Csi-0-SXyVusmQ8qpRmA" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
+
+            <div id="elm_h5Vg4Xq3RLm3NwyPoTR8BQ" class="zpelement-wrapper zpcol-layout">
+            <div class="zpcolumns">
+                    <div class="zpflLeft zpcolumn" style="width:50%">
+                    <div id="pos_Nwm-BwKCT2yo11sTJCi1Jw" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
+
+            <div id="elm_evObwTdtSfmSBn2nOFm_kA" class="zpelement-wrapper text">
+                    <div><p><span></span></p><h4 style="font-size: 18.0px;font-weight: 500;margin-bottom: 20.0px;"></h4><span><p dir="ltr"><span style="font-weight: 700;"> </span></p><h4 dir="ltr" style="margin-bottom: 31.0pt;"><span style="font-size: 18.0px;">70-100% Bonus Increment</span></h4><h4 dir="ltr" style="margin-bottom: 31.0pt;"><span style="background-color: transparent;color: rgb(62,62,62);font-size: 16.0px;line-height: 1.7;">When you provide help to a member, another will provide help to you with 70 Increase if help was provided in Local Currency and 100% increase if in Bitcoin in 21 days maximum. If you are willing to do so join us now</span></h4></span><p></p></div>
+            </div>
+                    </div></div> 
+                    <div class="zpflLeft zpcolumn" style="width:50%">
+                    <div id="pos_7RBxWBJ7Qna1-FVzMhOqog" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
+
+            <div id="elm_aPOgE6nTRFGLE5UPV8ntjQ" class="zpelement-wrapper text">
+                    <div><p><span></span></p><h4 style="font-size: 18.0px;font-weight: 500;margin-bottom: 20.0px;"></h4><span><h4 dir="ltr" style="margin-bottom: 31.0pt;"><span style="font-size: 18.0px;">Fully Automated System</span></h4><p dir="ltr" style="margin-bottom: 16.0pt;"><span style="font-size: 16.0px;font-weight: 700;">All funds transferred to other participants are help given at your own good to another participant, absolutely gratis</span></p><span style="font-size: 16.0px;font-weight: 700;"><br></span></span><p style="font-size: 16.0px;"></p><p></p></div>
+            </div>
+                    </div></div> 
+            </div></div>
+                    </div></div> 
+            </div></div>
+
+            <div id="elm_-LSVMfo3ReGGmDNkKZJA6w" class="zpelement-wrapper zpcol-layout">
+            <div class="zpcolumns">
+                    <div class="zpflLeft zpcolumn" style="width:50%">
+                    <div id="pos_1RGeODyzQBGrek1f6m3l0Q" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
+
+            <div id="elm_DlBUm3f7RaCYeNwDQrM7Zw" class="zpelement-wrapper text">
+                    <div><p><span><img alt="img" src="http://gethelpworldwide.com/img/ipad.png" style="font-size: 16.0px;vertical-align: middle;width: 530.0px;"></span></p></div>
+            </div>
+                    </div></div> 
+                    <div class="zpflLeft zpcolumn" style="width:50%">
+                    <div id="pos_7pAcxd8cTuWJztw0ljDYoQ" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
+
+            <div id="elm_OKj7l-cWSD-ZN0CXH-3WyA" class="zpelement-wrapper text">
+                    <div><p><span></span></p><h2 class="title" style="font-size: 28.0px;margin-bottom: 25.0px;"></h2><span><h2 dir="ltr" style="margin-bottom: 35.0pt;"><span style="font-size: 28.0px;">VERY IMPORTANT!</span></h2><h3 dir="ltr" style="margin-bottom: 24.0pt;"><span style="font-size: 16.0px;">There is NO Central Account where all the System money flows to (and where it can be easily stolen from). All the money is only on the banking accounts of the participants themselves, on a lot of thousand and million private accounts of participants. </span></h3><div><span style="font-size: 16.0px;"><span><h3 dir="ltr" style="margin-bottom: 24.0pt;"><span style="font-size: 16.0px;">Participants transfer to each other directly, without intermediaries, we only regulates the process - nothing more.</span></h3></span><br></span></div></span><h3 style="font-weight: 500;margin-bottom: 10.0px;"><font size="4"></font></h3><p></p></div>
+            </div>
+                    </div></div> 
+            </div></div>
+
+            <div id="elm_6j_Qun6CRG-AE4bWDJA_RQ" class="zpelement-wrapper text">
+                    <div><p><span></span></p><h2 class="pagetitle t-center" style="margin-bottom: 30.0px;text-align: center;">FREQUENTLY ASKED QUESTIONS</h2><p></p></div>
+            </div>
+
+            <div id="elm_kcCdUROVRhyZ4Z2Bjrkyxg" class="zpelement-wrapper zpcol-layout">
+            <div class="zpcolumns">
+                    <div class="zpflLeft zpcolumn" style="width:50%">
+                    <div id="pos_cT_6VmEcSkmL9J9xwK2hUg" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
+
+            <div id="elm_3KK1Em4wTAabfjS_g3aCBQ" class="zpelement-wrapper text">
+                    <div><p><span></span></p><div class="item" style="font-size: 16.0px;"><h4 class="title" style="font-size: 18.0px;font-weight: 500;margin-bottom: 10.0px;"></h4></div><span><p dir="ltr" style="text-align: justify;"><span style="font-weight: 700;"> </span><span style="font-size: 18.0px;font-weight: 700;">About us: </span><span style="font-size: 16.0px;font-weight: 700;">&nbsp;Naira Help Solution (NHS) is not a bank, we do not collect your money, we are not an Online business, HYIP, investment, Loan or MLM program. Naira help solution is a community where people help each other. We provide you a technical basic program/avenue, which helps millions of participants worldwide to find those who NEED help, and those who are ready to PROVIDE help for FREE. </span></p><br><p dir="ltr" style="margin-bottom: 24.0pt;text-align: justify;"><span style="font-size: 16.0px;font-weight: 700;">All funds are transferred to other participants at your own will. If you are completely confident and certain in your actions and make your mind to participate, we kindly ask you to study carefully all warnings and instructions first. In cases of any matter regarding the topic our online consultants and senior admins are ready to help and answer all your questions.</span></p><p dir="ltr" style="margin-bottom: 24.0pt;text-align: justify;"><span style="font-size: 16.0px;font-weight: 700;">Note that this platform has no guardian unlike other peer to peer donation platforms. The reason is to ensure proper continuity of this great community. &nbsp;Most times, the so called guardians earns higher than other participants and that makes such community to crash. With this strict rules, again, you must ensure that your next PH should not be lesser than your previous PH, the earlier you respond to PH order, the higher your Credibility. Your credibility score must not reduce to 0% this indicates negligence and disobedience to the community rules and regulation of which is an automatic blockage of your account which has a little or no chance of reopening. You are advice to PH within the time limit of four (4) days after your GH. otherwise, your account will be blocked forever of which you stand the risk of loosing your previous PH if you have made payment. we are very sure that this community will continue forever. </span></p><p dir="ltr" style="margin-bottom: 24.0pt;text-align: justify;"><span></span></p><h4 dir="ltr" style="margin-bottom: 24.0pt;"><span style="font-size: 18.0px;">Non-profit oriented goals</span></h4><p dir="ltr" style="margin-bottom: 24.0pt;text-align: justify;"><span style="font-size: 16.0px;font-weight: 700;">Naira Help Solution (NHS) is a non-profit organization managed by a dedicated team of volunteers who are also Participants in the Platform. We are a non-denominational group, supported by the team members, who are committed to provide financial and social opportunities and to promote well being to everyone in the world. All workers/admins must continually Provide Help and Get Help. No one has the right to tamper with the database of NHS.</span></p><span style="font-size: 16.0px;font-weight: 700;"><br></span></span><br><p></p><span style="font-size: 16.0px;font-weight: 700;"><br></span><div class="item" style="font-size: 16.0px;"><p style="margin-bottom: 10.0px;"></p></div><p></p></div>
+            </div>
+                    </div></div> 
+                    <div class="zpflLeft zpcolumn" style="width:50%">
+                    <div id="pos_55tzxLGSQiinWDTg6Ismcw" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
+
+            <div id="elm_YO2l2ry7TmyrwPxRetlL_A" class="zpelement-wrapper text">
+                    <div><span><h4 dir="ltr" style="margin-bottom: 24.0pt;"><span style="font-size: 18.0px;">A Community of helpers</span></h4><span style="font-size: 16.0px;font-weight: 700;">NHS is a community of people providing each other financial help on the principle of gratuitousness, reciprocity and benevolence. In NHS you don’t have to make contracts or pledge your property, there are no lenders and no debtors. Everything&nbsp;</span></span><span style="background-color: transparent;font-size: 16.0px;font-weight: 700;line-height: 1.7;text-align: justify;">is very simple: one participant asks for help – another one provides the help. The only thing that NHS demands from its participants is to be honest and kind to each other. You ask for financial help when you need it, you give financial help when you are able to do it.</span><div><span><span style="font-size: 16.0px;font-weight: 700;"><span><p dir="ltr" style="margin-bottom: 24.0pt;text-align: justify;"><span style="font-size: 16.0px;font-weight: 700;">This is a platform you can really trust. All members must continually participate (write letter of happiness) to avoid blockage of account. Any account noticed with any kind of fraudulent act will be deleted permanently from the platform.</span></p><br><h4 dir="ltr" style="margin-bottom: 24.0pt;text-align: justify;"><span style="font-size: 18.0px;">Dissemination Of Fund</span></h4><h4 dir="ltr" style="margin-bottom: 24.0pt;text-align: justify;"><span style="font-size: 16.0px;">NHS is <font color="#7beb15">committed to serve humanity by integrating resources for people in need. Recognize the innate worth of all people and the value of diversity, Work to ensure equal opportunity to everyone, irrespective of race, gender, color, class, ethnicity, disability and location. You can help one and will get help from others which will return you a <span></span>70% in Local Currency or 100% in Bitcoin in just 21 days maximum. If you are willing to do so join us now.</font></span></h4></span><br></span></span></div></div>
+            </div>
+                    </div></div> 
+            </div></div>
+
+            <div id="elm_GfY5TPpwTYa0UfPNufUj3w" class="zpelement-wrapper text">
+                    <div><p><span></span></p><h2 class="pagetitle t-center" style="margin-bottom: 30.0px;text-align: center;">CONTACT US</h2><center style="font-size: 16.0px;"><h1 style="font-size: 36.0px;font-weight: 500;margin-bottom: 10.0px;"><b><a href="http://support.gethelpworldwide.com" target="_blank">Submit a Ticket</a></b></h1><div><span><p dir="ltr" style="text-align: center;"><span style="font-size: 26.6667px;font-weight: 700;">nairahelpsolution.com/support-ticket </span></p><span style="font-size: 26.6667px;font-weight: 700;"><br></span></span><br></div><br></center><b style="font-size: 16.0px;"></b><p></p></div>
+            </div>
+
+            <div id="elm_A-j9-zK7RyiKnUCGl5Vc2g" class="zpelement-wrapper zpcol-layout">
+            <div class="zpcolumns">
+                    <div class="zpflLeft zpcolumn" style="width:50%">
+                    <div id="pos_0z7jMYpsSzqpMBJT9lbGDw" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
+
+            <div id="elm_The202cOR4KdSqgGq61UUw" class="zpelement-wrapper buttonElem">
+            <!-- #local btnLink = btnLink?replace("\'","\\'")-->
+            <div class="zpAlignPos" style="text-align:center;">
+                <button onclick="window.open('http://log-in.com','_self');" style="text-decoration:none;       ">
+        Sign IN
+                </button>
+            </div>
+            </div>
+                    </div></div> 
+                    <div class="zpflLeft zpcolumn" style="width:50%">
+                    <div id="pos_4WNTdxEiT-2ObXLzSrzk3g" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
+
+            <div id="elm_3_gd4td6Q02t8-WVkn6Bjw" class="zpelement-wrapper buttonElem">
+            <!-- #local btnLink = btnLink?replace("\'","\\'")-->
+            <div class="zpAlignPos" style="text-align:center;">
+                <button onclick="window.open('http://creatregister.com','_self');" style="text-decoration:none;       ">
+        Create Account
+                </button>
+            </div>
+            </div>
+                    </div></div> 
+            </div></div>
+</div>
+</div>
+    
+    
+    <div class="clearDiv"></div>
+  </div>
+</div>
+
+<div class="themeFooterArea">
+  <div class="themeWidth">  <div id="footer-container" class="zpcontent-wrapper"></div><!--zp:branding--> <!--/zp:branding--></div>
+</div>
+
+
+<div id="carouselCont" style="display:none"><div class="zs-slideshow-right-arrow"></div><div class="zs-slideshow-left-arrow"></div><div class="themeSlideshowOuterContainer"> <span class="themeSlideshowInnerContainer"> <span class="zs-slideshow-control"></span> </span> </div></div><div id="carouselCont" style="display:none"><div class="zs-slideshow-right-arrow"></div><div class="zs-slideshow-left-arrow"></div><div class="themeSlideshowOuterContainer"><span class="themeSlideshowInnerContainer"><span class="zs-slideshow-control"></span></span></div></div><div id="footerBar" style="display:none;font: 13px Arial,Helvetica,sans-serif; overflow: hidden; background:rgba(255, 255, 255, 0.3); padding: 3px 5px;"><span style="float: left; display: none; margin-top: 3px; padding: 0px 10px 0px 0px;" id="mobileSite"><a onclick="setCookie('userView','mobile','','/');" style="text-decoration: none;line-height: 1.5;color:#259A56;" href="/mobile/">Mobile Site</a></span></span></div><div style="clear:both"></div></body>
+</html>
